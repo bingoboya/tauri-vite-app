@@ -11,6 +11,7 @@ mac中打包-参考链接： https://github.com/lencx/tauri-tutorial/discussions
 参考链接2： https://blog.csdn.net/mouday/article/details/129811003
 1. git add .
 2. git commit -m "feat: .."
+(如果不想发版本，只是更新代码的话，执行1，2，git push)
 3. git tag v0.1.0 // 提交版本号
 4. git push --tag // 推送到仓库并自动根据 .github/workflows/release.yml中的配置构建相应版本的包，会打出三个平台(windows, mac, linux)的安装包
 
