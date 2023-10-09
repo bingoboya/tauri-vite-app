@@ -6,7 +6,7 @@ import Greet from "./components/Greet.vue";
 
 <template>
   <div class="container">
-    <h1>Welc23iome to Tauri!</h1>
+    <h1>Welc23iome2 to Tauri!</h1>
 
     <div class="row">
       <a href="https://vitejs.dev" target="_blank">
